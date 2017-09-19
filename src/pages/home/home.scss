@@ -1,3 +1,8 @@
 page-home {
-
+	.ion-header{
+		background-color: color($colors, primary)
+	}
+	p{
+		background-color: color($colors, primary);
+	}
 }
